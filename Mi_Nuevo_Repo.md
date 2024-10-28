@@ -37,8 +37,6 @@ You can also embed plots, for example:
 
 ![](Mi_Nuevo_Repo_files/figure-html/pressure-1.png)<!-- -->
 
-add(Mi_Nuevo_Repo_files/figure-html/pressure-1.png)<!-- -->
-
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 gráfico de cars
