@@ -2,7 +2,10 @@
 title: "Mi_Nuevo_Repositorio"
 author: "Dafne"
 date: "2024-10-28"
-output: html_document
+output:
+  html_document:
+    keep_md: true
+
 ---
 
 ```{r setup, include=FALSE}
@@ -28,3 +31,7 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+gráfico de cars
+```{r}
+plot(cars$speed, cars$dist)
